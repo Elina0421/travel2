@@ -1,0 +1,3 @@
+aiogram==3.27.0
+fast_hotels==0.2.1
+Requests==2.33.1
