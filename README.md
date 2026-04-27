@@ -3,7 +3,7 @@
 ## Ссылки
 
 - **Бот:** [@bot_bot](https://t.me/Travelel_bot)
-- **Презентация:** [презентация](https://docs.google.com/presentation/d/12aaxo6tdc0B4P1e43FvfsCbwqEp55uV1G9-nLlv9vqs/edit?usp=sharing)
+- **Презентация:** [презентация](https://docs.google.com/presentation/d/1ktOBjhwrFOlEPY2s3MtgOBzYQ6ukaelL/edit?usp=sharing&ouid=117569230664643297144&rtpof=true&sd=true)
 
 ---
 
